@@ -1,0 +1,9 @@
+{
+  "name": "create-elm-app-webcomponent-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "to-string-loader": "^1.1.5"
+  }
+}
