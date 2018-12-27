@@ -5,13 +5,13 @@
 1. add this plugin as a development dependency of a project you created with `create-elm-app`
 
 ```
-yarn add -D create-elm-app-webcomponent-plugin
+yarn add -D elm-app-webcomponent
 ```
 
 2. use plugin in `elmapp.config.js`
 
 ```javascript
-exports.configureWebpack = require('create-elm-app-webcomponent-plugin');
+exports.configureWebpack = require('elm-app-webcomponent');
 ```
 
 ### Usage

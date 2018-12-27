@@ -1,5 +1,5 @@
 {
-  "name": "create-elm-app-webcomponent-plugin",
+  "name": "elm-app-webcomponent",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
